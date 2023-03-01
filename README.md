@@ -5,6 +5,5 @@ Used technologies on the project:
 - Selenide
 - TestNG
 - Rest-assured
-- Google.code Gson
 - Lombok
 - Log4j2
